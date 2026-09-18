@@ -2,7 +2,7 @@
 
 <h3><a href="https://verty.kr"><img valign="middle" src="https://img.shields.io/badge/VERTY-0077BD?style=for-the-badge" /></a> UAM 가상 여정 체험 서비스</h3>
 
-<img width="1920" alt="cover" src="https://github.com/user-attachments/assets/78d2964e-bcba-4e0f-b373-b18dbe264ef7" />
+<img width="1920" alt="cover" src="https://github.com/user-attachments/assets/e08ebaaa-e9bc-4d33-8219-5b73516c951f" />
 
 ### Team. 8공주
 
